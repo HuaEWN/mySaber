@@ -126,7 +126,16 @@ const first = [{
     i18n: 'top',
   },
   children: []
-}, {
+},{
+  label: "Avue后端页面",
+  path: '/testTable',
+  component: 'views/util/testTable',
+  icon: 'icon-caidan',
+  meta: {
+    i18n: 'testTable',
+  },
+  children: []
+},{
   label: "表格表单",
   path: '/crud-form',
   component: 'views/util/crud-form',
