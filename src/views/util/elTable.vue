@@ -97,7 +97,7 @@
                 isLoading: false,   //loading加载时蒙版
                 alltotal: 0,   //请求过来所有的数据/总条数
                 currentPage: 1, //当前页
-                pagesize: 10,  //  每页的数据
+                pagesize: 10,  //  每页的数据  
             }
         },
         computed: {},
