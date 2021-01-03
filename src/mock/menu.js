@@ -136,6 +136,15 @@ const first = [{
   },
   children: []
 },{
+  label: "element模板",
+  path: '/elTable',
+  component: 'views/util/elTable',
+  icon: 'icon-caidan',
+  meta: {
+    i18n: 'elTable',
+  },
+  children: []
+},{
   label: "表格表单",
   path: '/crud-form',
   component: 'views/util/crud-form',
