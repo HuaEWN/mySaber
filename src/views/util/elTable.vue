@@ -105,9 +105,9 @@
         created() {
         },
         mounted() {
-            for(let i in 6){
-                console.log(i)
-            }
+            // for(let i in 6){
+            //     console.log(i)
+            // }
         },
         destroyed() {
         },
