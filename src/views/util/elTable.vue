@@ -58,7 +58,7 @@
         <el-table-column
                 align="center"
                 prop="times"
-                label="入库时间"
+                label="入库时间修改"
                 width="150">
         </el-table-column>
         <el-table-column
