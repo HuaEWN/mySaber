@@ -127,8 +127,8 @@
                             {order_code:'2020-12-31',times: [
                                     {istypes:'服务',id:33},
                                     {istypes:'服务',id:34},
-                                    {istypes:'服务',id:45},
-                                    {istypes:'服务',id:56}
+                                    {istypes:'test中修改',id:45},
+                                    {istypes:'test中修改',id:56}
                                 ]},
                             {order_code:'2020-12-31',times:[]}
                         ]
