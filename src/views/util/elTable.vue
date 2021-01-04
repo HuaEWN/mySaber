@@ -142,7 +142,7 @@
                             return i
                         })
                         this.tableData = lists
-                        console.log('点击查询')
+                        console.log('点击查询事件触发')
                         break
                     }
                     case 'add': {
