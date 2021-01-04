@@ -146,7 +146,7 @@
                         break
                     }
                     case 'add': {
-                        console.log('点击新增')
+                        console.log('点击新增按钮123')
                         break
                     }
                 }
