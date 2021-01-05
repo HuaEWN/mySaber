@@ -11,6 +11,9 @@
             </el-form-item>
         </el-form>
         <el-row>
+            <span>123{{this.$store.storetest}}</span>
+        </el-row>
+        <el-row>
             <el-button type="primary"
                        @click="productAdd('add')"
                        plain
