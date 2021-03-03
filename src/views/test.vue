@@ -1,5 +1,5 @@
 <template>
-  <basic-container>测试页123</basic-container>
+  <basic-container></basic-container>
 </template>
 
 <script>
